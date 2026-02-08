@@ -12,5 +12,6 @@ O modelo que iremos construir a partir da base de dados que nos foi enviada é d
 
 Com base nessa previsão, poderemos elaborar estratégias para reduzir o churn. No entanto, a base de dados que recebemos não está pronta para ser utilizada diretamente em modelos de machine learning. Nossa tarefa é exatamente limpá-la e tratá-la para esse propósito.
 
-Dataset: [dataset-telecon.json]([https://](https://raw.githubusercontent.com/Marina-Falcao-DEV/Datasets-JSON-Alura-limpeza-tratamento-dados-Google-Colab-Python/refs/heads/main/dataset-telecon.json))
+Dataset: [dataset-telecon.json](https://raw.githubusercontent.com/Marina-Falcao-DEV/Datasets-JSON-Alura-limpeza-tratamento-dados-Google-Colab-Python/refs/heads/main/dataset-telecon.json)
+ 
 
